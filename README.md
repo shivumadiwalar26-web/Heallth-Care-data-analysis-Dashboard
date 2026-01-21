@@ -81,6 +81,9 @@ The healthcare dataset includes features like Date, ID, Gender, Age, Race, Momen
    - **Department Referrals:** General Practice and Orthopedics patients account for **30.75%**, while other departments, including Physiotherapy and Cardiology, represent **10.64%**. Notably, non-referred patients constitute a substantial **58.67%** of total visitors.
 
    - **Admin Flag Distribution:** **50.04%** of visitors are fully registered patients, while **49.96%** are either visitors or individuals not registered for treatment. This indicates a significant portion of the hospital's traffic consists of non-registered individuals.
+     
+https://github.com/shivumadiwalar26-web/Heallth-Care-data-analysis-Dashboard/blob/main/Healthcare_Dashboard_1.JPG
+https://github.com/shivumadiwalar26-web/Heallth-Care-data-analysis-Dashboard/blob/main/Healthcare_Dashboard_2.JPG
 
 
 <br />
@@ -95,7 +98,6 @@ Contributions to this project are welcome! If you encounter any issues or have s
 
 📧 Email: shivumadiwalar26@gmail.com 
 For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
-https://github.com/shivumadiwalar26-web/Heallth-Care-data-analysis-Dashboard/blob/main/Healthcare_Dashboard_1.JPG
-https://github.com/shivumadiwalar26-web/Heallth-Care-data-analysis-Dashboard/blob/main/Healthcare_Dashboard_2.JPG
+
 
 
